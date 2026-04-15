@@ -31,7 +31,7 @@
     "macro": "#e08060"
   },
   "colors": {
-    "focusBorder": "#e0806060",
+    "focusBorder": "#3e3c3800",
     "foreground": "#d8d0c0",
     "descriptionForeground": "#b0a898",
     "errorForeground": "#b07878",
