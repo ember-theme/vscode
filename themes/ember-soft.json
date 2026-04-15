@@ -38,7 +38,7 @@
     "icon.foreground": "#b0a898",
     "selection.background": "#444240",
 
-    "editor.background": "#292825",
+    "editor.background": "#242320",
     "editor.foreground": "#d8d0c0",
     "editorCursor.foreground": "#e08060",
     "editor.selectionBackground": "#444240",
@@ -78,7 +78,7 @@
     "editorOverviewRuler.modifiedForeground": "#c8b468",
     "editorOverviewRuler.addedForeground": "#8a9868",
     "editorOverviewRuler.deletedForeground": "#e08060",
-    "editorOverviewRuler.border": "#292825",
+    "editorOverviewRuler.border": "#242320",
 
     "editorWidget.background": "#2c2b28",
     "editorWidget.foreground": "#d8d0c0",
@@ -93,9 +93,9 @@
 
     "editorGroup.border": "#444240",
     "editorGroupHeader.tabsBackground": "#1c1b19",
-    "editorGroupHeader.noTabsBackground": "#292825",
+    "editorGroupHeader.noTabsBackground": "#242320",
 
-    "tab.activeBackground": "#292825",
+    "tab.activeBackground": "#242320",
     "tab.activeForeground": "#d8d0c0",
     "tab.activeBorderTop": "#e08060",
     "tab.inactiveBackground": "#1c1b19",
@@ -180,16 +180,16 @@
 
     "progressBar.background": "#e08060",
 
-    "panel.background": "#292825",
+    "panel.background": "#242320",
     "panel.border": "#353430",
     "panelTitle.activeBorder": "#e08060",
     "panelTitle.activeForeground": "#d8d0c0",
     "panelTitle.inactiveForeground": "#706c61",
 
-    "terminal.background": "#292825",
+    "terminal.background": "#242320",
     "terminal.foreground": "#d8d0c0",
     "terminalCursor.foreground": "#e08060",
-    "terminal.ansiBlack": "#292825",
+    "terminal.ansiBlack": "#242320",
     "terminal.ansiRed": "#e08060",
     "terminal.ansiGreen": "#8a9868",
     "terminal.ansiYellow": "#c8b468",
@@ -226,7 +226,7 @@
     "peekView.border": "#e08060",
     "peekViewEditor.background": "#1c1b19",
     "peekViewEditor.matchHighlightBackground": "#e0806040",
-    "peekViewResult.background": "#292825",
+    "peekViewResult.background": "#242320",
     "peekViewResult.fileForeground": "#d8d0c0",
     "peekViewResult.lineForeground": "#b0a898",
     "peekViewResult.matchHighlightBackground": "#e0806040",
