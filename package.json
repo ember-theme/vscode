@@ -6,6 +6,10 @@
   "publisher": "ember-theme",
   "license": "MIT",
   "author": "Hossam Saraya",
+  "homepage": "https://embertheme.com",
+  "bugs": {
+    "url": "https://github.com/ember-theme/vscode/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ember-theme/vscode"
@@ -16,6 +20,10 @@
   "categories": ["Themes"],
   "keywords": ["theme", "dark", "light", "warm", "monochrome", "coral", "ember"],
   "icon": "assets/logo.png",
+  "galleryBanner": {
+    "color": "#1c1b19",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
