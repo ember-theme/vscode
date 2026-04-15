@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Ember" width="80" />
+  <img src="https://raw.githubusercontent.com/ember-theme/vscode/main/assets/logo.svg" alt="Ember" width="80" />
 </p>
 
 <h1 align="center">Ember for VS Code</h1>
@@ -22,7 +22,7 @@
 ## Preview
 
 <p align="center">
-  <img src="assets/banner.png" alt="Ember variants preview" width="800" />
+  <img src="https://raw.githubusercontent.com/ember-theme/vscode/main/assets/banner.png" alt="Ember variants preview" width="800" />
 </p>
 
 ## Screenshots
@@ -34,9 +34,9 @@
 <td align="center"><b>Ember Light</b><br><sub>warm ivory</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/ember.png" alt="Ember Dark" width="300" /></td>
-<td><img src="screenshots/ember-soft.png" alt="Ember Soft" width="300" /></td>
-<td><img src="screenshots/ember-light.png" alt="Ember Light" width="300" /></td>
+<td><img src="https://raw.githubusercontent.com/ember-theme/vscode/main/screenshots/ember.png" alt="Ember Dark" width="300" /></td>
+<td><img src="https://raw.githubusercontent.com/ember-theme/vscode/main/screenshots/ember-soft.png" alt="Ember Soft" width="300" /></td>
+<td><img src="https://raw.githubusercontent.com/ember-theme/vscode/main/screenshots/ember-light.png" alt="Ember Light" width="300" /></td>
 </tr>
 </table>
 
