@@ -1,0 +1,38 @@
+{
+  "name": "ember-theme",
+  "displayName": "Ember Theme",
+  "description": "A warm, monochrome color theme. One vivid coral spark in a sea of warm graphite.",
+  "version": "0.1.0",
+  "publisher": "ember-theme",
+  "license": "MIT",
+  "author": "Hossam Saraya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ember-theme/vscode"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "light", "warm", "monochrome", "coral", "ember"],
+  "icon": "assets/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ember.json"
+      },
+      {
+        "label": "Ember Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ember-soft.json"
+      },
+      {
+        "label": "Ember Light",
+        "uiTheme": "vs",
+        "path": "./themes/ember-light.json"
+      }
+    ]
+  }
+}
