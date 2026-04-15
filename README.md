@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ember-theme/vscode/main/assets/logo.svg" alt="Ember" width="80" />
+  <img src="https://raw.githubusercontent.com/ember-theme/vscode/main/assets/logo.png" alt="Ember" width="80" />
 </p>
 
 <h1 align="center">Ember for VS Code</h1>
